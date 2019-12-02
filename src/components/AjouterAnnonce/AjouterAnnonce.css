@@ -1,0 +1,73 @@
+.control-label {
+  font-weight: 700 !important;
+  color: black;
+  padding-left: -10px;
+}
+
+.col-md-8{
+  padding-left: 35px;
+}
+.col-md-9{
+  padding-left: 0px;
+}
+.col-md-3{
+
+padding-left: 0px;
+}
+input[type=checkbox]{
+  margin-right: 12px;
+}
+.form-control {
+  border-color: #afa9a9 !important;
+}
+.form-block{
+  padding-left: 3px;
+}
+.control{
+  padding-left: 6px;
+  font-weight: 700 !important;
+  color: black;
+  
+}
+.opt{
+  
+    font-weight: 700 !important;
+    color: black;
+    margin-left: -15px !important;
+
+  
+}
+.card-body{
+  padding-left: 15px !important;
+}
+.text-editor{
+  
+  padding-top: 18px;
+  margin-left: -15px;
+  width: 918px;
+}
+
+.btn-warning{
+width: 199px;
+    height: 62px;
+    margin-right: 44px;
+}
+.btn-danger{
+  width: 199px;
+  height: 62px;
+ 
+ 
+}
+ .form-actions{
+  margin-left: 235px;
+  margin-top: 59px;
+    margin-bottom: 37px;
+}
+.bg-info {
+  background-color: #d6a945!important}
+
+  .description-taxtArea {
+    width: 100%;
+    height: 145px;
+    border-radius: 7px;
+  }
